@@ -7,4 +7,4 @@ This project aims at predicting the presence of heart disease on the basis of 13
 
 Accuracy of prediction is analyzed using various algorithms like Logistic Regression, KNN, Naïve Bayes, Random Forest, Support Vector.
 
-Dataset used has been downloaded from Kaggle and I have taken help from towardsdatascience to do this project.
+Dataset (Cleveland database) used has been downloaded from Kaggle and I have taken help from towardsdatascience to do this project.
